@@ -1,6 +1,19 @@
 # HI👋💫 ,I am AYUSH KUMAR SINGH⭐
 **A Passionate Full Stack Developer || VideoEditor ||
 
+---
+ 
+<!-- Snake animation of my contribution grid -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Aks-887/Aks-887/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Aks-887/Aks-887/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake"
+       src="https://raw.githubusercontent.com/Aks-887/Aks-887/output/github-contribution-grid-snake.svg" />
+</picture>
+---
+ 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aks-887&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
